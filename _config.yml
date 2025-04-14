@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bryan Vas # the main title
+title: Aaromal S Ram # the main title
 
-tagline: Building the future, one Robot at a time # it will display as the subtitle
+tagline: Drafting Dreams, Crafting machines that move souls # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Robots, Simulations, ML, and other cool stuff.
+  Vehicle Development - dynamics, aerodynamics, and control systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,20 +29,20 @@ github:
   username: aaromal03 # change to your GitHub username
 
 twitter:
-  username: vas_bryan72181 # change to your Twitter username
+  username: aaromal03 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Bryan Asher Vas
-  email: bryanvas25@gmail.com # change to your email address
+  name: Aaromal S Ram # change to your name
+  email: aaromal03@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/vas_bryan72181 # change to your Twitter homepage
-    - https://github.com/bryanvas-cpu # change to your GitHub homepage
+    - https://twitter.com/aaromal03 # change to your Twitter homepage
+    - https://github.com/aaromal03 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/bryan-vas-0bb718284
+    - https://www.linkedin.com/in/aaromal-s03 # change to your LinkedIn homepage
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/images/Hexapod_Pic.png
+avatar: assets/images/profile.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
