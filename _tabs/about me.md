@@ -21,7 +21,7 @@ order: 4
 
 ## Brief Introduction
 
-Welcome! My name is [Bryan](https://github.com/bryanvas-cpu), and I am a robotics enthusiast, software developer, and an avid learner. This space serves as my platform to share projects, insights, and knowledge as I explore the intersections of technology, innovation, and creativity.
+Welcome! My name is [Aaromal](https://github.com/aaromal03), and I am a robotics enthusiast, software developer, and an avid learner. This space serves as my platform to share projects, insights, and knowledge as I explore the intersections of technology, innovation, and creativity.
 
 My primary areas of expertise include:
 - **Robotics Engineering**: Design, and Testing autonomous systems for real-world applications.
