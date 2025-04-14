@@ -25,17 +25,17 @@ order: 4
 
 ## Brief Introduction
 
-Welcome! My name is [Aaromal](https://github.com/aaromal03), and I am a robotics enthusiast, software developer, and an avid learner. This space serves as my platform to share projects, insights, and knowledge as I explore the intersections of technology, innovation, and creativity.
+Welcome! My name is [Aaromal](https://github.com/aaromal03), and I am a Mechanical Engineer, with primary interest in Automobiles. I am the Chief Designer of Mechismu Racing-Electric, Formula student team from India. I am pursuing my Bachelor's degree in Mechanical Engineering from IIT(ISM) Dhanbad. I'll be sharing my projects, insights and knowledge as I pursue my passion of developing vehicles, machines and robots.
 
 My primary areas of expertise include:
-- **Robotics Engineering**: Design, and Testing autonomous systems for real-world applications.
-- **Software Development**: Crafting innovative solutions using modern programming languages, Machine Learning, and Artificial Intelligence.
-- **Open-Source Contributions**: Sharing code and collaborating with a global community.
+- **Mechanical Engineering**: Design, manufacture and optimize machines of all kinds.
+- **Vehicle Development**: Drafting Dreams on wheels to move souls. From bending air to strengthening strucutres and everything in between. 
+- **Design Solutions**: Developing products and machines for industrial problems.
 
-I believe that continuous learning and collaboration are key to shaping the future. Technology is more than just a tool; it is a catalyst for solving problems, connecting people, and driving meaningful change.
+I believe that vehicles and machines are more than some parts made to accomplish some task. They are the dreams we pursue and thus it should be made like a dreams, with endless pursuit of perfection.
 
-> *"The best way to predict the future is to invent it."*  
-> — Alan Kay
+> *"I'm a greater believer in luck, and I find the harder I work the more I have of it."*  
+> — Thomas Jefferson
 
 ---
 
