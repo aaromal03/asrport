@@ -11,7 +11,7 @@ order: 4
   <img src="assets/images/About/output-onlinepngtools.png" alt="Inspiration 1" 
        style="height: calc(30vw); width: auto; max-height: 350px; border-radius: 50px; flex-shrink: 0;">
        -->
-  <img src="assets/images/About/me_at_kari.jpeg" alt="Inspiration 2" 
+  <img src="assets/images/About/me_at_kari.jpg" alt="Inspiration 2" 
        style="height: calc(35vw); width: auto; max-height: 400px; border-radius: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
   <!--
   <img src="assets/images/About/Olaf_from_Disney's_Frozen.png" alt="Inspiration 3" 
