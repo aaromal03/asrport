@@ -4,15 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## A Visual Perspective
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
+<!--
   <img src="assets/images/About/output-onlinepngtools.png" alt="Inspiration 1" 
        style="height: calc(30vw); width: auto; max-height: 350px; border-radius: 50px; flex-shrink: 0;">
-  <img src="assets/images/About/me_at_kharagpur.jpeg" alt="Inspiration 2" 
-       style="height: calc(35vw); width: auto; max-height: 400px; border-radius: 100px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
+       -->
+  <img src="assets/images/About/me_at_kari.jpeg" alt="Inspiration 2" 
+       style="height: calc(35vw); width: auto; max-height: 400px; border-radius: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex-shrink: 0;">
+  <!--
   <img src="assets/images/About/Olaf_from_Disney's_Frozen.png" alt="Inspiration 3" 
        style="height: calc(30vw); width: auto; max-height: 350px; border-radius: 50px; flex-shrink: 0;">
+       -->
 </div>
 
 
