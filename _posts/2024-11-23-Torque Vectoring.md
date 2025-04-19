@@ -19,7 +19,7 @@ An additional highlight was developing an NRF24-based transmitter and receiver, 
 Watch the Heexapod in action:
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://youtu.be/1hXhvorJttc" 
+  <iframe src="https://www.youtube.com/watch?v=1hXhvorJttc" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen 
