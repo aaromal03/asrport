@@ -1,10 +1,10 @@
 ---
-title: "Hexapod POC"
-description: Design, Implementation, and Testing
-date: 2024-11-20
-categories: [Projects, Robotics]
-tags: [Hexapod, robotics]
-author: "Bryan Vas"
+title: "Torque Vectoring System"
+description: Simulation and Optimization
+date: 2025-04-08
+categories: [Projects,Vehicle Dynamics,Simulation,Matlab ]
+tags: [Torque Vectoring, Electric, Vehicle]
+author: "Aaromal S Ram"
 image: assets/images/Hexapod_1.0/Hexapod_POC.jpeg # Feature image for the post
 ---
 
